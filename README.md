@@ -12,7 +12,7 @@ In october 2014 I did a course on HTML5 which I had to cancel midterm due to new
 It wasn't that much of a loss as the concepts then where a bit behind the times (learning Flexbox after it's time).
 
 I've used HTML first, then some CSS obviously, incorporated JavaScript later on.
-After that I experimented with a little webapp called Digital Reporting, that sits on Sharepoints due to the environment it was develoiped in.
+After that I experimented with a little webapp called Digital Reporting, that sits on Sharepoints due to the environment it was developed in.
 
 There I used JSON for the first time and started exploring SQL and other databases quickly prompting me to look into PHP.
 It mostly started as a small idea to learn to use CSS grid in 2018.
