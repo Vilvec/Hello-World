@@ -20,3 +20,5 @@ As time for development got less and less, I had to leave it in a state I wasn't
 
 Now in 2020, I'll give it another shot and started a proper bootcamp - somehow that seems to be a common starting ground.
 So, with the help of the app brewery, I hope to develop a comprehensive understanding and dive into parts of the backend as well.
+
+Update on 2022: Well. I do understand MongoDB, Server, Express.js, Mongoose, Node.js. It's still pretty basic, but I'm getting there. Summer kept me from diving deeper as real life had quite a few surprises waiting for me. Time to get back into some coding again.
